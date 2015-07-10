@@ -1,4 +1,4 @@
-# Material Theme for Sublime Text 3
+Summer shandy # Material Theme for Sublime Text 3
 This theme brings the [Material Design](http://www.google.com/design/) visual language to your Sublime Text 3. If you have problems first search for a similiar issue and then report with [new one](https://github.com/equinusocio/material-theme/issues).
 
 ## Buy me a beer.
